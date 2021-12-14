@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TattoosDB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_select">Select a type</string>
+    <string name="brand">Color</string>
+    <string name="model">Ubicacion</string>
+    <string name="year">Duracion</string>
+    <string name="hp">Horas</string>
+    <string name="fecha">Fecha </string>
+    <string name="color">Color: </string>
+    <string name="duracion">Duracion: </string>
+    <string name="horas">Horas: </string>
+    <string name="date_card">Date: </string>
+    <string name="type_card">Tipo: </string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="todo">TODO</string>
+    <string name="rellena">Rellena el campo</string>
+    <string name="help_brand">Write a tattoo brand</string>
+    <string name="help_model">Write a tattoo model</string>
+    <string name="help_year">Write launch year</string>
+    <string name="help_hp">Write the hp</string>
+    <string name="help_date">Write a date</string>
+    <string name="type">type</string>
+    <string name="brand_model">brand, model</string>
+    <string name="hp_">hp</string>
+    <string name="year_">year</string>
+    <string name="go_to_types">Go to types</string>
+    <string name="add_type">Add Type</string>
+    <string name="delete_edit_type">Delete / Edit Type</string>
+    <string name="support_text_delete_type">To Edit, select a type and write the new name.\n To delete, select the type to delete</string>
+    <string name="support_text_add_type">To Add a type, simply write the name on the input</string>
+    <string name="hint_add_type">Add type</string>
+    <string name="hint_edit_delete_type">New name</string>
+    <string name="fabAdd">fabAdd</string>
+    <string name="fechap">Fecha:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="ubicacion">UBICACION</string>
+    <string name="imgw">TODOimg</string>
+    <string name="yy">TODOyy</string>
+    <string name="edit">Edit</string>
+</resources>
